@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500');
+body {
+    background: #eef1bd;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+      }
+
+header .foto_de_perfil img {
+    border-radius: 80%;
+    width: 15%;
+}  
+  .sobre {
+    background: #bbd686;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+  }
+    
+    
+  @media (min-width: 768px) {
+    h1 {
+        font-size: 24px;
+        color: #000000;
+      }
+      p {
+        font-size: 18px;
+        color: #000000;
+      }
+      img {
+        width: 400px;
+      }
+    }
+
+  
+  

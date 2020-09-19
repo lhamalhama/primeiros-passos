@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500');
+body {
+    background: #c4a381;
+    font-family: 'Roboto', sans-serif;
+  }
+  header .foto_de_perfil img {
+    border-radius: 80%;
+    width: 10%;
+}  
+  .sobre {
+    background: #bbd686;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+    
+  @media (min-width: 768px) {
+    .container {
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
+  
+  
